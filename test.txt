@@ -2,3 +2,4 @@
 sssss 클론을 통해서
 코드수정
 master branch에서 수정
+클론을 통해서
